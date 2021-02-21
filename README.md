@@ -7,4 +7,4 @@
 
 ![ScreenShot](https://raw.githubusercontent.com/danielofaustino/react-material-ui/master/youtubeclone.gif)
 
-I learn it with Lucas Nhimi -> [https://www.youtube.com/watch?v=u9FnmBdBl5k]
+[I learn it with Lucas Nhimi](https://www.youtube.com/watch?v=u9FnmBdBl5k)
